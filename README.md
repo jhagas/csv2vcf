@@ -21,7 +21,8 @@ cd csv2vcf
 2. Running this script
 
 - Type the following command and hit ENTER:
-```python csv2vcf.py
+```
+python csv2vcf.py
 ```
 You have to fill the form correctly, and type `done` and `ENTER` if you are done typing all csv that you want to convert.
 
