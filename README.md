@@ -7,7 +7,7 @@ This is a python script with ONLY built-in modules. Make sure you have `python v
 
 ## CSV Format
 You can see [examples](./formatting.csv) for the format of the CSV. You can empty some entry if you want to.
-~[csv example](./screenshot/formatting.png)
+![csv example](./screenshot/formatting.png)
 
 ## How to use
 I assume you have installed `python v3.9` and `git` in your system.
